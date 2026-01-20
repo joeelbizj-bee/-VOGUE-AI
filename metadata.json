@@ -1,0 +1,7 @@
+{
+  "name": "Vogue AI: Cowboy Couture",
+  "description": "Transform your portrait into a high-end fashion masterpiece featuring a classic cowboy kofia and modern stylish outfits using advanced AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
